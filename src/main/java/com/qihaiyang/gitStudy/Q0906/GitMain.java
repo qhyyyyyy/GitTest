@@ -8,6 +8,7 @@ public class GitMain {
         System.out.println("hello git4");
         System.out.println("hello git5 from master ");
         System.out.println("hello git5 from hot-fix");
+        System.out.println("push commit");
     }
 
 }
